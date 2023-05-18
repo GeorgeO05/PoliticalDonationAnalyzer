@@ -1,6 +1,6 @@
-#helloooooo
-# senior_project
-repository name is temporary
+
+# PoliticalDonationAnalyzer
+The purpose of this project was to analyze a big dataset with parallel processing. We decided to focus on political donations. We wanted to collect, analyze, and visualize FEC data on donations given from individuals to candidates as well as committees to candidates. Details can be read in our [Part 1 Report](https://github.com/GeorgeO05/PoliticalDonationAnalyzer/blob/main/Part%201%20Report.pdf) and [Part 2 Report](https://github.com/GeorgeO05/PoliticalDonationAnalyzer/blob/main/Part%202%20%26%203%20report.pdf) as well as by watching our [Demo Video](https://www.loom.com/share/253dd2c2a2b4401c8f910286d4c2ced2).
 
 # run it
 0. start at root directory (/senior_project)
